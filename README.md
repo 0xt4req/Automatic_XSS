@@ -1,7 +1,5 @@
 # Automatic_XSS_BY_KNIGHT_VIII
 
-# Automatic_XSS_By_Knight_VIII
-
 This is an simple Automatic XSS script..
 Just run the script and see the magic
 
@@ -16,4 +14,4 @@ Just run the script and see the magic
 # To install all the Modules at a time:
       # pip install -r requirements.txt
 
-## Enjoy
+## Enjoy 😘😘
