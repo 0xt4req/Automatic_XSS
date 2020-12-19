@@ -13,8 +13,8 @@ print("""
                                                                                                    
 """)
 
-browser = webdriver.Chrome(r"Folder Name/chromedriver.exe")  # you have to specify the path with driver
-# browser = webdriver.Firefox(r"W:\Python Programming")
+browser = webdriver.Chrome(r"Folder Path\chromedriver.exe")  # you have to specify the path with driver
+# browser = webdriver.Firefox(r"Folder Path")
 browser.get('Target domain')  # target domain
 
 time.sleep(2)
