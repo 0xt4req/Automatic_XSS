@@ -13,9 +13,9 @@ print("""
                                                                                                    
 """)
 
-browser = webdriver.Chrome(r"W:\Python Programming/chromedriver.exe")  # you have to specify the path with driver
+browser = webdriver.Chrome(r"Folder Name/chromedriver.exe")  # you have to specify the path with driver
 # browser = webdriver.Firefox(r"W:\Python Programming")
-browser.get('http://ks-challenge.nomanprodhan.com/challenge-9.php')  # target domain
+browser.get('Target domain')  # target domain
 
 time.sleep(2)
 # you have to add the payloads here | saperate with comma
