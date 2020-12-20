@@ -16,6 +16,7 @@ Just run the script and see the magic
 
 
 # For Linux You have to download linux chrome driver. You Can download it from the above link.
+      # I'm developing that too. So, Comming soon...
       
 
 ## Enjoy 😘😘
