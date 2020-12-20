@@ -14,4 +14,8 @@ Just run the script and see the magic
 # To install all the Modules at a time:
       # pip install -r requirements.txt
 
+
+# For Linux You have to download linux chrome driver. You Can download it from the above link.
+      
+
 ## Enjoy 😘😘
